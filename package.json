@@ -1,0 +1,13 @@
+{
+  "name": "apex-socket-server",
+  "version": "1.0.0",
+  "description": "Socket server for Apex Chat Client",
+  "main": "main.js",
+  "author": "refactoring",
+  "license": "GNUGPL-v3",
+  "private": true,
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
